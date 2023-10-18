@@ -1,1 +1,1 @@
-# Curser-Rays-Effect
+# Cursor-rays-effect
